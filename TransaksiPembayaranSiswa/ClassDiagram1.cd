@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TransaksiPembayaranSiswa.FormDashboard" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/3eAAAUFNSEAVBGICCSCSQF2MPGow1QUFeVPDQEYB/4=</HashCode>
+      <FileName>FormDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransaksiPembayaranSiswa.FormLogin" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAgBACAAAAQAgICBAAQCAAAwsCAAAmAAACAEAEI=</HashCode>
+      <FileName>FormLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransaksiPembayaranSiswa.HandlerNumber" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HandlerNumber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransaksiPembayaranSiswa.Koneksi" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAggAAAQQAAAAQAAAAAAAABAAQAAAAAAAACAAAQAAA=</HashCode>
+      <FileName>Koneksi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransaksiPembayaranSiswa.Program" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransaksiPembayaranSiswa.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransaksiPembayaranSiswa.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
